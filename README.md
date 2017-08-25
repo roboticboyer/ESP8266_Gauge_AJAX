@@ -42,5 +42,5 @@ Il codice Javascript AJAX e XML che dinamicamente aggiorna la pagina internet de
 
 ## Screenshots
 
-![Image](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DS1820_SPIFFS_Gauge/Doc/Arduino_IDE_Browser_Gauge.png)
+![Image](https://github.com/roboticboyer/ESP8266_Gauge_AJAX/blob/master/Doc/Arduino_IDE_Browser_Gauge.png)
 ![scheda di sviluppo ](https://github.com/roboticboyer/Esempi_ESP8266/blob/master/DOC/Immagini/ESP8266_Breadbord_DS1820.JPG)
