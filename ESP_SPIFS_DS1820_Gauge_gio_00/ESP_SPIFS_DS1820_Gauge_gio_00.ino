@@ -27,8 +27,8 @@ http://newmaan.com/gauge.min.js
 
 #define DBG_OUTPUT_PORT Serial
 
-const char* ssid = "slip";
-const char* password = "";
+const char* ssid = "rete";
+const char* password = "pippo2017";
 
 //const char* host = "esp8266fs";
 ESP8266WebServer server(80);
